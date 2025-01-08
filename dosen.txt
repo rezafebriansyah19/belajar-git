@@ -1,5 +1,9 @@
 Dosen PeTik :
+<<<<<<< HEAD
 1. Irwandi
+=======
+1. Dudi
+>>>>>>> 0c45531 (Mengubah Badu menjadi Dudi)
 2. Bain
 3. Basu
 4. Teza
